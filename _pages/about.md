@@ -23,7 +23,15 @@ to the Galaxy][hhgtg]
 [zaphod]: https://en.wikipedia.org/wiki/Zaphod_Beeblebrox
 
 ## In the beginning...
+There was actually quite a bit more in the beginning - I've got some more to
+write here.  I've been having fun diving into the internet archive for some of
+these links too much.
+{: .notice}
 
+## Starting work
+I started work a long time ago
+
+### Working at an actual ISP?!
 I started out work in the mid 90's at a [local dial-up Internet Service Provider][niia]
 providing technical support, and eventually working my way to webmaster.  I still
 laugh about the [prices for internet access and selling Netscape on
@@ -34,7 +42,7 @@ those days).  I believe this and another ISP job gave me a serious foundation in
 networking and a deep understanding of networking, routing, and the telephone
 system. 
 
-## Moving to Training
+### Moving to becoming a Microsoft Certified Trainer
 The next step in my career actually turned me from a student in an MCSE series
 to being a trainer in that very same class. As a student, I asked many difficult
 questions, and ultimately was asked if I would consider becoming a trainer by my
@@ -56,10 +64,12 @@ When my contract was complete, I continued to be an independent contract MCT for
 several years before I moved to Madison.  I was teaching at Inacom so much that
 they decided to move me to Madison and hire me as a full time employee.
 
-## Coming to Madison - Inacom 
-I did much more than just training at Inacom.  I worked as a consultant, mentor,
+### Coming to Madison - Inacom 
+I did much more than just training at [Inacom][inacom].  I worked as a consultant, mentor,
 and eventually managed a team of engineers in their Security Practice.  Inacom
 was a great company.
+
+[inacom]: https://web.archive.org/web/20000902202719/http://www.inacom-msn.com/Default.asp
 
 A few highlights
 
