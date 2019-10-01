@@ -1,9 +1,18 @@
 ---
 permalink: /about/
-title: "About"
+title: "More About Gentry"
+toc: true
+toc_label: "Sections"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
-I like to find and solve business "problems" using clear communication,
+  > ""Vell, Gentry's just zis guy, you know?"
+  > - Stolen and modified from Douglas Adams (and Gag Halfrunt)
+
+This is more of a casual about page detailing my background than a formal
+resume, although I do promise to list my skills
+I like to find and solve business "probms" using clear communication,
 technology, process improvement, automation, and quantative measurement.
 
 Software / Infrastructure Architect - Interested in technologies that improve
@@ -45,8 +54,9 @@ racing)
 I started out work in the mid 90's at a [local dial-up Internet Service Provider][niia]
 providing technical support, eventually working my way to webmaster.  I still
 laugh about the [prices for internet access and selling Netscape on
-Floppies][niia2].   Having 24 hour
-access to a T-1 in 1995 is an amazing thing (especially in those days).  I
+Floppies][niia2].
+
+Having 24 hour access to a T-1 in 1995 was an amazing thing (especially in those days).  I
 believe this and another ISP job gave me a serious foundation in networking and
 a deep understanding of networking, routing, and the telephone system
 
@@ -56,7 +66,7 @@ to being a trainer in that very same class. As a student, I asked many difficult
 questions, and ultimately was asked if I would consider becoming a trainer by my
 3rd class. Because of my ISP background, my first teach was the [Internetworking
 with TCP/IP on Windows NT 4.0 (#688)][Course688] to the same group of students I was sitting through the first 4
-classes with.
+classes of the MCSE series with.
 
 Ultimately, I signed a 3 year contract, and began living in hotels more than my
 own house, continuiously taking Microsoft exams in order to be eligable to teach
