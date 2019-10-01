@@ -8,15 +8,19 @@ toc_sticky: true
 ---
 
   > ""Vell, Gentry's just zis guy, you know?"
-  > - Stolen and modified from Douglas Adams (and Gag Halfrunt)
+  > - Stolen and modified - originally said regarding [Zaphod Beeblebrox][zaphod]
+
+# Background
 
 This is more of a casual about page detailing my background than a formal
 resume, although I do promise to get one up soon. For now, see the sections near
 the bottom of the page.
 
-  
-  
-# Background
+In case you hadn't noticed from the quote above, I love [The Hitchhiker's Guide
+to the Galaxy][hhgtg]
+
+[htgtg]: https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy
+[zaphod]: https://en.wikipedia.org/wiki/Zaphod_Beeblebrox
 
 ## In the beginning...
 
@@ -114,6 +118,7 @@ from Russia) and eventually passed their exams
 ## Moving to Paradigm
 
 ## The Future
+
 
 # Overview of Qualifications
 I like to find and solve business "probms" using clear communication,
