@@ -11,40 +11,9 @@ toc_sticky: true
   > - Stolen and modified from Douglas Adams (and Gag Halfrunt)
 
 This is more of a casual about page detailing my background than a formal
-resume, although I do promise to list my skills
-I like to find and solve business "probms" using clear communication,
-technology, process improvement, automation, and quantative measurement.
+resume, although I do promise to get one up soon. For now, see the sections near
+the bottom of the page.
 
-Software / Infrastructure Architect - Interested in technologies that improve
-the entire software development/delivery lifecycle. Extensive experience with
-Application Lifecycle Management.  Extensive training/mentoring background - I
-would generally rather teach myself out of a job as a consultant. Passionate
-public speaker - user groups, technical training, conferences.
-
-I'm also a photographer, musician, billiards enthusast, and gamer (nearly all
-racing) 
-
-# Highlights
-
-* Learning focused, highly motivated professional - I don't just enjoy this
-  stuff 9-5. Working to improve something that already exists in many ways seems
-  better than creating things new
-
-* Crusher of technical debt. Building more debt on top of more debt tends to get
-  quite expensive over the long term rather than correcting the core issues that
-  led to said debt.
-  
-* Extensive Database Experience
-  * Administration
-  * Development
-  * Performance Tuning
-  * Data Warehousing
-  * Cube Design
-  * Reporting and Data Visualization
-  
-* Extensive security experience
-  * Secure software development practices and code auditing
-  * Secure infrastructure setup, management, reporting, and remediation
   
   
 # Background
@@ -137,8 +106,56 @@ developer conference in Seattle (they flew most of their core developer team
 from Russia) and eventually passed their exams
 
   ... To be Continued ...
+
+## Moving to Crestwood and working 100% remote
+
+## Continued independent consulting and personal development
+
+## Moving to Paradigm
+
+## The Future
+
+# Overview of Qualifications
+I like to find and solve business "probms" using clear communication,
+technology, process improvement, automation, and quantative measurement.
+
+
+Software / Infrastructure Architect - Interested in technologies that improve
+the entire software development/delivery lifecycle. Extensive experience with
+Application Lifecycle Management.  Extensive training/mentoring background - I
+would generally rather teach myself out of a job as a consultant. Passionate
+public speaker - user groups, technical training, conferences.
+
+I'm also a photographer, musician, billiards enthusast, and gamer (nearly all
+racing) 
+
+# Highlights
+
+* Learning focused, highly motivated professional - I don't just enjoy this
+  stuff 9-5. Working to improve something that already exists in many ways seems
+  better than creating things new
+
+* Crusher of technical debt. Building more debt on top of more debt tends to get
+  quite expensive over the long term rather than correcting the core issues that
+  led to said debt.
   
+* Extensive Database Experience
+  * Administration
+  * Development
+  * Performance Tuning
+  * Data Warehousing
+  * Cube Design
+  * Reporting and Data Visualization
+  
+* Extensive security experience
+  * Secure software development practices and code auditing
+  * Secure infrastructure setup, management, reporting, and remediation
+
+
+
   [Course688]: https://web.archive.org/web/19990508192019/http://www.ctclc.com/classes/Microsoft/mcse_series.htm
   [niia]: https://web.archive.org/web/19961227193938/http://niia.net/
   [niia2]: https://web.archive.org/web/19980205004309/http://www.niia.net/sales/dialup.html
+  
+  [inacom]: https://web.archive.org/web/20000619040405/http://www.inacom-msn.com/
   
