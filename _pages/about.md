@@ -19,7 +19,7 @@ the bottom of the page.
 In case you hadn't noticed from the quote above, I love [The Hitchhiker's Guide
 to the Galaxy][hhgtg]
 
-[htgtg]: https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy
+[hhgtg]: https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy
 [zaphod]: https://en.wikipedia.org/wiki/Zaphod_Beeblebrox
 
 ## In the beginning...
