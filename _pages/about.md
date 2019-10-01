@@ -25,13 +25,14 @@ to the Galaxy][hhgtg]
 ## In the beginning...
 
 I started out work in the mid 90's at a [local dial-up Internet Service Provider][niia]
-providing technical support, eventually working my way to webmaster.  I still
+providing technical support, and eventually working my way to webmaster.  I still
 laugh about the [prices for internet access and selling Netscape on
 Floppies][niia2].
 
-Having 24 hour access to a T-1 in 1995 was an amazing thing (especially in those days).  I
-believe this and another ISP job gave me a serious foundation in networking and
-a deep understanding of networking, routing, and the telephone system
+Having 24 hour access to a T-1 in 1995 was truly an amazing thing (especially in
+those days).  I believe this and another ISP job gave me a serious foundation in
+networking and a deep understanding of networking, routing, and the telephone
+system. 
 
 ## Moving to Training
 The next step in my career actually turned me from a student in an MCSE series
@@ -109,16 +110,38 @@ Acumatica (and became a certified developer) at SVA.  I attended their first
 developer conference in Seattle (they flew most of their core developer team
 from Russia) and eventually passed their exams
 
-  ... To be Continued ...
-
 ## Moving to Crestwood and working 100% remote
+*Much more to fill out from here*
+
+* Worked on a large [Acumatica][acumatica] project
+* Designed and built a majority of a major customization for a large
+  organization 
+
+[acumatica]: https://www.acumatica.com
 
 ## Continued independent consulting and personal development
 
+I worked on several opportunities that never quite saw the light of day in this
+period.  One was a course on Master Data Services for the top online SQL Server
+training company.  That was completely my fault.
+
+There were a number of things throughout this time that are somewhat
+inappropriate to talk about here, and I won't do so.
+
+I did end up moving to Downtown Madison.
+
 ## Moving to Paradigm
+Paradigm is one of the companies that I most enjoyed working at.  They are an
+actual Software Development company that ships a product.
+
 
 ## The Future
 
+I am currently open to appropriate opportunities, although I'm in a bit of a
+difficult situation and will require a good amount of flexibility.
+
+From here on, it's nothing but a really bad first draft, and I'll likely remove
+it once I get my resume page created {: .notice--danger}
 
 # Overview of Qualifications
 I like to find and solve business "probms" using clear communication,
