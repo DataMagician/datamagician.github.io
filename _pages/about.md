@@ -95,7 +95,7 @@ sale and my department was merged into another - thus eliminating my position.
 They did however provide severance of 2 weeks of contract training per month -
 for a year. Their HR representative actually helped me create my first LLC.
 
-## Document Management and Solution Integration
+### OnBase and Solution Integration
 I worked as an independent consultant for several years, and then moved to
 Naviant. I worked on the document management system Hyland Onbase - and was
 certified as a developer.  I also worked with Brainware extensively as a
@@ -104,7 +104,7 @@ developer and consultant and became certified there too.
 I will always have a fondness in my heart for the private offices, incredible
 co-workers, and business problems solved during that time period.
 
-## Moving to SVA and the world of finance
+### Finance and the world of SVA
 Eventually, after extensive recruiting, I moved from Naviant to SVA Consulting
 as an Enterprise Architect.  It was back to being a consultant - and I had to
 remember to keep a jacket with me at all times (in case we needed to visit a
@@ -120,8 +120,9 @@ Acumatica (and became a certified developer) at SVA.  I attended their first
 developer conference in Seattle (they flew most of their core developer team
 from Russia) and eventually passed their exams
 
-## Moving to Crestwood and working 100% remote
+### 100% Remote Acumatica Developer at Crestwood
 *Much more to fill out from here*
+{: .notice--warning}
 
 * Worked on a large [Acumatica][acumatica] project
 * Designed and built a majority of a major customization for a large
