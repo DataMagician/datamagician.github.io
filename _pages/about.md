@@ -6,7 +6,8 @@ toc_label: "Sections"
 toc_icon: "cog"
 toc_sticky: true
 header:
-  image: /assets/images/unsplash-image-5.jpg
+  overlay_image: /assets/images/unsplash-image-5.jpg
+  opacity_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
