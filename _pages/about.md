@@ -140,8 +140,8 @@ actual Software Development company that ships a product.
 I am currently open to appropriate opportunities, although I'm in a bit of a
 difficult situation and will require a good amount of flexibility.
 
-From here on, it's nothing but a really bad first draft, and I'll likely remove
-it once I get my resume page created {: .notice--danger}
+{: .notice--danger}From here on, it's nothing but a really bad first draft, and
+I'll likely remove it once I get my resume page created
 
 # Overview of Qualifications
 I like to find and solve business "probms" using clear communication,
