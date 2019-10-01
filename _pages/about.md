@@ -5,6 +5,9 @@ toc: true
 toc_label: "Sections"
 toc_icon: "cog"
 toc_sticky: true
+header:
+  image: /assets/images/unsplash-image-5.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
   > ""Vell, Gentry's just zis guy, you know?"
@@ -156,12 +159,11 @@ I'll likely remove it once I get my resume page created
 {: .notice--danger}
 
 # Overview of Qualifications
-I like to find and solve business "probms" using clear communication,
-technology, process improvement, automation, and quantative measurement.
 
-
-Software / Infrastructure Architect - Interested in technologies that improve
-the entire software development/delivery lifecycle. Extensive experience with
+* Software / Infrastructure Architect 
+* Interested in technologies that deal with the entire software
+  development/delivery lifecycle. 
+* Extensive experience with
 Application Lifecycle Management.  Extensive training/mentoring background - I
 would generally rather teach myself out of a job as a consultant. Passionate
 public speaker - user groups, technical training, conferences.
