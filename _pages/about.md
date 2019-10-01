@@ -52,8 +52,8 @@ a deep understanding of networking, routing, and the telephone system
 The next step in my career actually turned me from a student in an MCSE series
 to being a trainer in that very same class. As a student, I asked many difficult
 questions, and ultimately was asked if I would consider becoming a trainer by my
-3rd class. Because of my ISP background, my first teach was the Microsoft TCP/IP
-course (688) to the same group of students I was sitting through the first 4
+3rd class. Because of my ISP background, my first teach was the [Internetworking
+with TCP/IP on Windows NT 4.0 (#688)][Course688] to the same group of students I was sitting through the first 4
 classes with.
 
 Ultimately, I signed a 3 year contract, and began living in hotels more than my
@@ -124,4 +124,8 @@ Acumatica (and became a certified developer) at SVA.  I attended their first
 developer conference in Seattle (they flew most of their core developer team
 from Russia) and eventually passed their exams
 
-  ... To be Continued ..
+  ... To be Continued ...
+  
+  [Course688]: https://web.archive.org/web/19990508192019/http://www.ctclc.com/classes/Microsoft/mcse_series.htm
+  
+  
