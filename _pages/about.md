@@ -42,8 +42,10 @@ racing)
 
 ## In the beginning...
 
-I started out work in the mid 90's at a local dial-up Internet Service Provider
-providing technical support, eventually working my way to webmaster.  Having
+I started out work in the mid 90's at a [local dial-up Internet Service Provider][niia]
+providing technical support, eventually working my way to webmaster.  I still
+laugh about the [prices for internet access and selling Netscape on
+Floppies][niia2].   Having 24 hour
 access to a T-1 in 1995 is an amazing thing (especially in those days).  I
 believe this and another ISP job gave me a serious foundation in networking and
 a deep understanding of networking, routing, and the telephone system
@@ -127,5 +129,6 @@ from Russia) and eventually passed their exams
   ... To be Continued ...
   
   [Course688]: https://web.archive.org/web/19990508192019/http://www.ctclc.com/classes/Microsoft/mcse_series.htm
-  
+  [niia]: https://web.archive.org/web/19961227193938/http://niia.net/
+  [niia2]: https://web.archive.org/web/19980205004309/http://www.niia.net/sales/dialup.html
   
