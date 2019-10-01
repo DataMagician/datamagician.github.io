@@ -7,7 +7,7 @@ toc_icon: "cog"
 toc_sticky: true
 excerpt: "A typed out history of my background - from the beginning - unlike my resume."
 header:
-  overlay_image: /assets/images/_GAB7882.jpg
+  overlay_image: /assets/images/gentry_header_1.jpg
   opacity_filter: 0.5
   caption: "Photo credit: Gentry Bieker"
 ---
