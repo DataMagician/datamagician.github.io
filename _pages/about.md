@@ -130,7 +130,7 @@ from Russia) and eventually passed their exams
 
 [acumatica]: https://www.acumatica.com
 
-## Continued independent consulting and personal development
+### Doing Other Things
 
 I worked on several opportunities that never quite saw the light of day in this
 period.  One was a course on Master Data Services for the top online SQL Server
@@ -141,12 +141,12 @@ inappropriate to talk about here, and I won't do so.
 
 I did end up moving to Downtown Madison.
 
-## Moving to Paradigm
+### Working at Paradigm
 Paradigm is one of the companies that I most enjoyed working at.  They are an
 actual Software Development company that ships a product.
 
 
-## The Future
+### The Future
 
 I am currently open to appropriate opportunities, although I'm in a bit of a
 difficult situation and will require a good amount of flexibility.
