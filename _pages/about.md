@@ -5,6 +5,7 @@ toc: true
 toc_label: "Sections"
 toc_icon: "cog"
 toc_sticky: true
+excerpt: "A typed out history of my background - from the beginning - unlike my resume."
 header:
   overlay_image: /assets/images/unsplash-image-5.jpg
   opacity_filter: 0.5
